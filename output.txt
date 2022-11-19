@@ -1,0 +1,47 @@
+# Employee List initialized...
+Employee [empname=Soumya, empid=1,
+ empaddress=Address [aid=1, streetname=Wall Street, city=Manhattan, state=New York, zipcode=12345.0], empsalary=15000.0]
+Employee [empname=Sandeep Sir, empid=2,
+ empaddress=Address [aid=2, streetname=Park Street, city=Kolkata, state=West Bengal, zipcode=54321.0], empsalary=1000000.0]
+Employee [empname=Jamie Lannister, empid=3,
+ empaddress=Address [aid=3, streetname=Castle Road, city=Kings Landing, state=Westros, zipcode=77777.0], empsalary=35000.0]
+Employee [empname=Anuska, empid=4,
+ empaddress=Address [aid=1, streetname=Wall Street, city=Manhattan, state=New York, zipcode=12345.0], empsalary=15000.0]
+Employee [empname=Anuska, empid=5,
+ empaddress=Address [aid=2, streetname=Park Street, city=Kolkata, state=West Bengal, zipcode=54321.0], empsalary=15000.0]
+
+# Employee List after sorting based on employee salary in ascending order
+Employee [empname=Soumya, empid=1,
+ empaddress=Address [aid=1, streetname=Wall Street, city=Manhattan, state=New York, zipcode=12345.0], empsalary=15000.0]
+Employee [empname=Anuska, empid=4,
+ empaddress=Address [aid=1, streetname=Wall Street, city=Manhattan, state=New York, zipcode=12345.0], empsalary=15000.0]
+Employee [empname=Anuska, empid=5,
+ empaddress=Address [aid=2, streetname=Park Street, city=Kolkata, state=West Bengal, zipcode=54321.0], empsalary=15000.0]
+Employee [empname=Jamie Lannister, empid=3,
+ empaddress=Address [aid=3, streetname=Castle Road, city=Kings Landing, state=Westros, zipcode=77777.0], empsalary=35000.0]
+Employee [empname=Sandeep Sir, empid=2,
+ empaddress=Address [aid=2, streetname=Park Street, city=Kolkata, state=West Bengal, zipcode=54321.0], empsalary=1000000.0]
+
+# Employee List after sorting based on employee salary in ascending order
+Employee [empname=Soumya, empid=1,
+ empaddress=Address [aid=1, streetname=Wall Street, city=Manhattan, state=New York, zipcode=12345.0], empsalary=15000.0]
+Employee [empname=Anuska, empid=4,
+ empaddress=Address [aid=1, streetname=Wall Street, city=Manhattan, state=New York, zipcode=12345.0], empsalary=15000.0]
+Employee [empname=Anuska, empid=5,
+ empaddress=Address [aid=2, streetname=Park Street, city=Kolkata, state=West Bengal, zipcode=54321.0], empsalary=15000.0]
+Employee [empname=Jamie Lannister, empid=3,
+ empaddress=Address [aid=3, streetname=Castle Road, city=Kings Landing, state=Westros, zipcode=77777.0], empsalary=35000.0]
+Employee [empname=Sandeep Sir, empid=2,
+ empaddress=Address [aid=2, streetname=Park Street, city=Kolkata, state=West Bengal, zipcode=54321.0], empsalary=1000000.0]
+
+# Employee List after sorting based on empname and empid attributes
+Employee [empname=Anuska, empid=4,
+ empaddress=Address [aid=1, streetname=Wall Street, city=Manhattan, state=New York, zipcode=12345.0], empsalary=15000.0]
+Employee [empname=Anuska, empid=5,
+ empaddress=Address [aid=2, streetname=Park Street, city=Kolkata, state=West Bengal, zipcode=54321.0], empsalary=15000.0]
+Employee [empname=Jamie Lannister, empid=3,
+ empaddress=Address [aid=3, streetname=Castle Road, city=Kings Landing, state=Westros, zipcode=77777.0], empsalary=35000.0]
+Employee [empname=Sandeep Sir, empid=2,
+ empaddress=Address [aid=2, streetname=Park Street, city=Kolkata, state=West Bengal, zipcode=54321.0], empsalary=1000000.0]
+Employee [empname=Soumya, empid=1,
+ empaddress=Address [aid=1, streetname=Wall Street, city=Manhattan, state=New York, zipcode=12345.0], empsalary=15000.0]
