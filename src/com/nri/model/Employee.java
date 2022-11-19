@@ -1,11 +1,13 @@
 package com.nri.model;
 
 public class Employee {
+	//attributes
 	private String empname;
 	private int empid;
 	private Address empaddress;
 	private double empsalary;
 	
+	// constructor
 	public Employee() {
 		super();
 	}
@@ -17,6 +19,7 @@ public class Employee {
 		this.empsalary = empsalary;
 	}
 	
+	// getters and setters
 	public String getEmpname() {
 		return empname;
 	}

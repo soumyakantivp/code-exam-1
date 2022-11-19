@@ -1,13 +1,14 @@
 package com.nri.model;
 
 public class Address {
+	//attributes
 	private int aid;
 	private String streetname;
 	private String city;
 	private String state;
 	private double zipcode;
 	
-	
+	// constructor
 	public Address() {
 		super();
 	}
@@ -22,6 +23,7 @@ public class Address {
 	}
 
 
+	// getters and setters
 	public int getAid() {
 		return aid;
 	}
